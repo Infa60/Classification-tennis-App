@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>SharpSansBold.ttf</file>
+    <file>logo_app.png</file>
+  </qresource>
+</RCC>

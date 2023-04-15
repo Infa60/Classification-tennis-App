@@ -4,12 +4,8 @@ Application des prédictions des coups au Tennis avec une centrale inertielle.<b
 
 Par <span style="color:#069B23">Anthony PLACÉ</span>, <span style="color:#069B23"> Mathieu BOURGEOIS</span> et <span style="color:#069B23">Victor VATTIER</span>.
 
-<img src="https://zupimages.net/up/23/13/mgzr.png" alt="Alt text" title="Optional title">
+<img src="data/App_pres.png" alt="Alt text" title="Optional title">
 
-<img src="https://zupimages.net/viewer.php?id=23/13/mgzr.png" alt="Alt text" title="Optional title">
-
-
-<a href="https://zupimages.net/viewer.php?id=23/13/mgzr.png"><img src="https://zupimages.net/up/23/13/mgzr.png" alt="" /></a>
 
 ## Table des matières :
 
